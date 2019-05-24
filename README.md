@@ -16,7 +16,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 12+33, mixed mode, sharing)
 (or a later version)
 
 ## Required Environment Variables
-
+* None at this point
 
 ## Database / MySQL 
 * None at this point but will be added (and flyway migrations setup at that time)
